@@ -1,0 +1,7 @@
+[Info  - 4:06:18 PM] Initialising intelephense 1.5.4
+[Info  - 4:06:18 PM] Initialised in 21 ms
+[Warn  - 4:06:19 PM] file:///var/www/3_clients/3_full-stack/folk-flow.local/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:06:19 PM] Indexing started.
+[Info  - 4:06:58 PM] Indexing ended. 5779 files indexed in 38s.
+[Info  - 4:06:58 PM] Writing state to /var/www/3_clients/3_full-stack/folk-flow.local/~/.vscode-root/User/workspaceStorage/283b4bf66e3b1d41fe0f81810fd6137d/bmewburn.vscode-intelephense-client/55a68e34.
+[Info  - 4:07:00 PM] Wrote state in 1.7s.

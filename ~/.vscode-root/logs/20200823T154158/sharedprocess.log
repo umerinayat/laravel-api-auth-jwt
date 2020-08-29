@@ -1,0 +1,9 @@
+[2020-08-23 15:42:03.063] [sharedprocess] [info] main {"machineId":"3d2fd563f469175f7ca9b30b5a7ceb323420705e6d3446996891cc2d836b4447","windowId":2}
+[2020-08-23 15:42:03.217] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/3_clients/3_full-stack/folk-flow.local/~/.vscode-root/User/snippets'
+[2020-08-23 15:42:05.977] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2020-08-23 15:42:11.268] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /tmp/ab33230a-0eec-4cd7-908d-891955789633
+[2020-08-23 15:42:12.464] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.bmewburn.vscode-intelephense-client-1.5.4: bmewburn.vscode-intelephense-client
+[2020-08-23 15:42:12.466] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.5.4
+[2020-08-23 15:42:12.471] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2020-08-23 15:42:12.503] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2020-08-23 15:42:43.123] [sharedprocess] [info] Starting to clean up unused language packs.
